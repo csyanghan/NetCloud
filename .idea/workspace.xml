@@ -41,11 +41,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BosonNLP_sentiment_score.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BosonNLP_sentiment_score.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/BosonNLP_sentiment_score/BosonNLP_sentiment_score.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-870">
               <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dataAnalyse.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dataAnalyse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="60" column="33" lean-forward="true" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+              <folding>
+                <element signature="e#24#48#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,7 +121,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -317,7 +329,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -667,16 +679,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataAnalyse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="113" column="39" selection-start-line="113" selection-start-column="39" selection-end-line="113" selection-end-column="39" />
-          <folding>
-            <element signature="e#24#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/stopwords/中文停用词表.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -721,6 +723,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-870">
           <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalyse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="33" lean-forward="true" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+          <folding>
+            <element signature="e#24#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
