@@ -50,14 +50,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dataAnalyse.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dataAnalyse.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataAnalyse.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="900">
-              <caret line="60" column="33" lean-forward="true" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+              <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
               <folding>
                 <element signature="e#24#48#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -109,6 +118,7 @@
         <option value="$PROJECT_DIR$/hot.py" />
         <option value="$PROJECT_DIR$/dataAnalyse.py" />
         <option value="$PROJECT_DIR$/sentimentAnalysis.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -138,23 +148,6 @@
             <path>
               <item name="NetCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="NetCloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NetCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NetCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NetCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NetCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="BosonNLP_sentiment_score" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NetCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NetCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="stopwords" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -392,13 +385,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/paramsEncrypto.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1856">
-          <caret line="66" column="19" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Crawl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4176">
@@ -729,10 +715,17 @@
     <entry file="file://$PROJECT_DIR$/dataAnalyse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
-          <caret line="60" column="33" lean-forward="true" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+          <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
           <folding>
             <element signature="e#24#48#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
         </state>
       </provider>
     </entry>
