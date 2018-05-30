@@ -53,7 +53,7 @@
       <file leaf-file-name="dataAnalyse.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataAnalyse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
+            <state relative-caret-position="1740">
               <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
               <folding>
                 <element signature="e#24#48#0" expanded="true" />
@@ -65,8 +65,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -385,16 +385,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Crawl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4176">
-          <caret line="147" column="34" lean-forward="true" selection-start-line="147" selection-start-column="34" selection-end-line="147" selection-end-column="34" />
-          <folding>
-            <element signature="e#294#309#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="812">
@@ -712,9 +702,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README,md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/dataAnalyse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
+        <state relative-caret-position="1740">
           <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
           <folding>
             <element signature="e#24#48#0" expanded="true" />
@@ -724,8 +717,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
