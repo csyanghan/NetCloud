@@ -1,69 +1,24 @@
+# 项目说明
+这个项目是课程： 大数据从理论到实践 课程的实验代码
+主要内容是对[《鼓楼》](http://music.163.com/#/song?id=447926067)评论进行分析
 
-│  Crawl.py
-│  crawlUserInfo.py
-│  dataAnalyse.py
-│  dataClean.py
-│  hot.py
-│  main.py
-│  paramsEncrypto.py
-│  README.md
-│  sentimentAnalysis.py
-│  
-├─.idea
-│  │  encodings.xml
-│  │  misc.xml
-│  │  modules.xml
-│  │  NetCloud.iml
-│  │  other.xml
-│  │  workspace.xml
-│  │  
-│  └─inspectionProfiles
-├─raw_data
-│      cleanComment-utf-8.csv
-│      comment-utf-8.csv
-│      comment.csv
-│      comment.txt
-│      userInfo.csv
-│      
-├─result
-│      age分布.png
-│      Rank排行榜.png
-│      world_cloud.jpg
-│      听歌分钟数.png
-│      热力图.html
-│      热力图.JPG
-│      男女比例.png
-│      
-├─source
-│  │  BosonNLP_sentiment_score.txt
-│  │  degreeDict.txt
-│  │  hgdstop.txt
-│  │  notDict.txt
-│  │  
-│  ├─BosonNLP_sentiment_score
-│  │      BosonNLP_sentiment_score.txt
-│  │      license.txt
-│  │      readme.txt
-│  │      
-│  ├─sentiment
-│  │      主张词语（中文）.txt
-│  │      主张词语（英文）.txt
-│  │      正面情感词语（中文）.txt
-│  │      正面情感词语（英文）.txt
-│  │      正面评价词语（中文）.txt
-│  │      正面评价词语（英文）.txt
-│  │      程度级别词语（中文）.txt
-│  │      程度级别词语（英文）.txt
-│  │      负面情感词语（中文）.txt
-│  │      负面情感词语（英文）.txt
-│  │      负面评价词语（中文）.txt
-│  │      负面评价词语（英文）.txt
-│  │      
-│  └─stopwords
-│          README.md
-│          中文停用词表.txt
-│          哈工大停用词表.txt
-│          四川大学机器智能实验室停用词库.txt
-│          百度停用词表.txt
+# 目录结构
+* `raw_data` 文件夹是爬虫爬取得数据
+* `result` 文件夹是实验结果
+* `source` 文件夹里一些需要的资源，例如：情感词典、停用词表、程度词表、否定词表
+* `Crawl.py` `paramsEncrypto.py` 加密爬取网易云评论时的参数 抓取评论数据 `crawUserInfo.py` 根据评论者ID抓取用户个人信息
+* `dataClean.py` 数据清洗，主要去掉一些重复数据
+* `dataAnalyse.py` `hot.py` 主要是一些可视化分析及热力图
+* `sentimentAnalysis.py` 情感分析，基于情感字典
 
-        
+# 实验结果
+* 评论者等级分布
+![](https://github.com/Ctum/NetCloud/blob/master/result/Rank%E6%8E%92%E8%A1%8C%E6%A6%9C.png)
+* 评论者年龄分布
+![](https://github.com/Ctum/NetCloud/blob/master/result/age%E5%88%86%E5%B8%83.png)
+* 评论者男女比例
+![](https://github.com/Ctum/NetCloud/blob/master/result/%E7%94%B7%E5%A5%B3%E6%AF%94%E4%BE%8B.png)
+* 热力图
+![](https://github.com/Ctum/NetCloud/blob/master/result/%E7%83%AD%E5%8A%9B%E5%9B%BE.JPG)
+* 词云
+![](https://github.com/Ctum/NetCloud/blob/master/result/world_cloud.jpg)
