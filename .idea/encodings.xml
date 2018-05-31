@@ -3,5 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/README.md" charset="GBK" />
     <file url="file://$PROJECT_DIR$/source/degreeDict.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/source/notDict.txt" charset="GBK" />
   </component>
 </project>
