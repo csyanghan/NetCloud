@@ -22,3 +22,6 @@
 ![](https://github.com/Ctum/NetCloud/blob/master/result/%E7%83%AD%E5%8A%9B%E5%9B%BE.JPG)
 * 词云
 ![](https://github.com/Ctum/NetCloud/blob/master/result/world_cloud.jpg)
+* 1000条评论结果
+由于这个花时间比较长，我做了这1000条大概跑了150s，总共大概有14000条数据
+![](https://github.com/Ctum/NetCloud/blob/master/result/1000%E6%9D%A1%E8%AF%84%E8%AE%BA%E5%A5%BD%E8%AF%84%E5%B7%AE%E8%AF%84%E5%88%86%E5%B8%83.png)
