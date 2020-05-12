@@ -17,7 +17,7 @@ import os, time, csv
 try:
     from paramsEncrypto import crypto, format_time
 except ImportError:
-    from .paramsEncrypto import crypto, format_time
+    from paramsEncrypto import crypto, format_time
 
 
 class Crawler(object):
