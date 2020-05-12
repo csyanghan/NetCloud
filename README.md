@@ -12,15 +12,26 @@
 * `sentimentAnalysis.py` 情感分析，基于情感字典
 
 # 实验结果
-* 评论者等级分布
+* ### 评论者等级分布
+
 ![](https://github.com/Ctum/NetCloud/blob/master/result/Rank%E6%8E%92%E8%A1%8C%E6%A6%9C.png)
-* 评论者年龄分布
+
+* ### 评论者年龄分布
+
 ![](https://github.com/Ctum/NetCloud/blob/master/result/age%E5%88%86%E5%B8%83.png)
-* 评论者男女比例
+
+* ### 评论者男女比例
+
 ![](https://github.com/Ctum/NetCloud/blob/master/result/%E7%94%B7%E5%A5%B3%E6%AF%94%E4%BE%8B.png)
-* 热力图
+
+* ### 热力图
+
 ![](https://github.com/Ctum/NetCloud/blob/master/result/%E7%83%AD%E5%8A%9B%E5%9B%BE.JPG)
-* 词云
+
+* ### 词云
+
 ![](https://github.com/Ctum/NetCloud/blob/master/result/world_cloud.jpg)
-* 评论正向负向分布
-![](https://github.com/Ctum/NetCloud/blob/master/result/1000%E6%9D%A1%E8%AF%84%E8%AE%BA%E5%A5%BD%E8%AF%84%E5%B7%AE%E8%AF%84%E5%88%86%E5%B8%83.png)
+
+* ### 评论正向负向分布
+
+![](https://github.com/Ctum/NetCloud/blob/master/result/%E8%AF%84%E8%AE%BA%E6%AD%A3%E5%90%91%E8%B4%9F%E5%90%91%E5%88%86%E5%B8%83.png)
